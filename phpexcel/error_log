@@ -1,0 +1,7 @@
+[19-Mar-2017 02:20:43 Etc/GMT-5] PHP Notice:  Undefined variable: pid in /home/wwwrebanx/public_html/php/inc_excel.php on line 271
+[19-Mar-2017 02:20:43 Etc/GMT-5] PHP Notice:  Undefined variable: pid in /home/wwwrebanx/public_html/php/inc_excel.php on line 272
+[19-Mar-2017 02:20:43 Etc/GMT-5] PHP Notice:  Undefined variable: pid in /home/wwwrebanx/public_html/php/inc_excel.php on line 273
+[19-Mar-2017 02:20:43 Etc/GMT-5] PHP Notice:  Undefined variable: mc_fee in /home/wwwrebanx/public_html/php/inc_excel.php on line 298
+[19-Mar-2017 02:20:43 Etc/GMT-5] PHP Notice:  Undefined variable: account_on_file_amount in /home/wwwrebanx/public_html/php/inc_excel.php on line 389
+[19-Mar-2017 02:20:43 Etc/GMT-5] PHP Notice:  Undefined variable: account_on_file_num in /home/wwwrebanx/public_html/php/inc_excel.php on line 389
+[19-Mar-2017 02:20:43 Etc/GMT-5] PHP Fatal error:  Class 'ZipArchive' not found in /home/wwwrebanx/public_html/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 220
